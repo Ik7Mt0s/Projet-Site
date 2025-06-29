@@ -4,10 +4,12 @@
 }
 
 body{
-    background-color:rgb(55, 7, 100);
-
+    background-color:rgb(91, 68, 226);
 }
 
+img.lado{
+    float:right;
+}
 main{
     background-color: white;
     width: 500px;
